@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NimitBhawsar
 - 👀 I’m interested in Web Development and Mobile Development also
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at nbhawsar82@gmail.com
 
 <!---
